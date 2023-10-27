@@ -14,9 +14,7 @@ echo $CR_PAT | docker login ghcr.io -u USERNAME --password-stdin
 **Note:** If the repository is cloned move to Images/Nginx folder. Build will use the 'Dockerfile' at current folder
 
 ```
-cd Images
-cd Nginx
-
+git clone https://github.com/SMACAcademy/mynginx_image1.git
 
 docker build -t ghcr.io/smacacademy/mynginx_image1:v1 .
 
