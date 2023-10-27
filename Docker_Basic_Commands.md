@@ -1,3 +1,6 @@
+# Docker_Basics
+Basics of Docker
+
 - [Docker\_Basics](#docker_basics)
   - [Install Docker](#install-docker)
   - [Docker Installations](#docker-installations)
@@ -12,8 +15,6 @@
 
 
 
-# Docker_Basics
-Basics of Docker
 
 ## Install Docker
 
